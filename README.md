@@ -19,7 +19,7 @@ Web scraping to extract online data about "Mission to Mars" was collected and re
 
 ## Website Product
 
-<image>
+<img width=“500” alt=“” src="https://github.com/estherhk/Mission-to-Mars/blob/master/Mission-to-Mars.png">
   
 ### Bootstrap Components
 Different Bootstrap components were used to design the website.
