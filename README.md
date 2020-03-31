@@ -1,5 +1,5 @@
 # Mission-to-Mars
-
+Web scraping for a web application using HTML/CSS, Flask, NoSQL.
 ## Project Overview
 Web scraping to extract online data about "Mission to Mars" was collected and rendered in a web application created with Flask.  This website contains information about Mars such as images, Mars facts, and the most recent article from NASA available to viewers.  Different applications such as NoSQL, HTML, BeautifulSoup, and etc were used to collect and produce this website.
 
@@ -15,7 +15,7 @@ Web scraping to extract online data about "Mission to Mars" was collected and re
 - BeautifulSoup & Splinter
 - HTML/CSS
 - Flask
-- Boostrap
+- Bootstrap
 
 ## Website Product
 
